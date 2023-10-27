@@ -1,0 +1,106 @@
+
+!DOCTYPE html>
+<html>
+<head >
+    <meta charset="UTF-8">
+    <title>Student Portfolio</title>
+    <style >
+        body  {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #007BFF;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            font-size: 36px;
+        }
+
+        .container {
+            max-width: 10000px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+        }
+
+        .section {
+            margin-bottom: 20px;
+        }
+
+        .section h2 {
+            font-size: 24px;
+            margin-bottom: 10px;
+        }
+
+        .section p {
+            font-size: 16px;
+        }
+
+        .skills ul {
+            list-style-type: none;
+        }
+
+        .project {
+            margin-bottom: 30px;
+        }
+
+        .project h3 {
+            font-size: 20px;
+        }
+
+        .project p {
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 >Naan Mudhalvan 2023</h1>
+    </header>
+<nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+<a href="https://ibb.co/G9xq0Mm"><img src="https://i.ibb.co/PMmdNWk/Doc-Scanner-26-Oct-2023-9-08-pm.jpg" width=80 height=80 alt="Doc-Scanner-26-Oct-2023-9-08-pm" border="0"></a>" 
+        <div class="section">
+
+            <h2>PERSONAL INFORMATION</h2>
+
+                <tr>
+                    <td><src="sabari.jpeg" height="250PX"> <td><H2>SABARI K</H2><h3>🎓B.Sc. Computer Science</h3><h4><a href="https://caussanelcollege.com/"></a>🏤 CAUSSANEL COLLEGE OF ARTS AND SCIENCE </h4> <h45>📍Ramanathapuram</h5></td>
+                </tr>
+        </div>
+
+        <div class="section">
+            <h2>Skills</h2>
+            <div class="skills">
+                <Ol>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>JavaScript</li>
+                    <li>Python</li>
+                </Ol>
+            </div>
+            <h2>LANGUAGE</h2>
+            <div class="project">
+                <OL>
+                    <LI>Tamil</LI>
+                    <li>English</li>
+                </OL>
+            </div>
+            
+        </div>
+    </div>
+</body>
+</html>
